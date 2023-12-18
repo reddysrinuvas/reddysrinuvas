@@ -3,14 +3,14 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
+<b>You Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
-<b>Industry :</b> Lifestyle and Technology<br>
+<b>Industry :</b> Earth<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
-1. Azure App Service <br>
-2. Azure SQL Database <br> <br>
+1. Storage Account <br>
+2. Blob Storage <br> <br>
 Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
