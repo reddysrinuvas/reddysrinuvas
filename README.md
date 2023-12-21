@@ -1,4 +1,4 @@
-![Screenshot 2023-12-21 135225](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/01eb03d7-0983-40fe-8586-2d82774122fc)# BLOSSOM-VALLEY-NURSERY
+# BLOSSOM-VALLEY-NURSERY
 A platform to know the magic in your own hands
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
