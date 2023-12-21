@@ -12,7 +12,7 @@ Core Azure Services : <br>
 1. Storage Account <br>
 2. Blob Storage <br> <br>
 Azure AI Service <br>
-1. Azure Language Service
+1. Azure Language Service<br>
 2. Azure Bot<br>
 </h3>
 <h2>Problem Statement</h2>
