@@ -20,8 +20,6 @@ Azure AI Service <br>
 <h2>Project Description</h2>
 <p align="justify">Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies. Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the nursery's flora. The user interface is intuitively crafted, offering a seamless navigation experience for plant enthusiasts and prospective customers. To ensure accessibility and scalability, the static web application is deployed on the Azure portal, providing a robust and reliable hosting solution. This integration not only enhances the website's performance but also aligns with contemporary industry standards, making Blossom Valley Nursery's online presence as vibrant and thriving as their botanical offerings.</p><br>
 
-
-
 <h2>Core Azure Services</h2>
 <b>Azure Blob Storage:</b>
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
@@ -32,13 +30,7 @@ Azure Backup is a cloud-based service in Microsoft Azure that allows organizatio
 <h2>Azure AI Service</h2>
 <b>Azure ChatBot:</b>
 Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
-
-<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
-<b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
-<b>Azure Application Insights :</b><p align="justify">
-<b>User Interaction Insights :</b> Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.<br>
-<b>Diagnostics Precision :</b> Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
-
+<br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
