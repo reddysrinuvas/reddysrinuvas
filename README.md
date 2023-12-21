@@ -66,20 +66,7 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 
 
 
-<img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/724a69fa-6b63-4c0e-b4ce-b816d9bdeb8f">
 
-<img width="960" alt="3" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/fa8ad91c-d2f1-4f15-81a3-747b8e8c5aba">
-<img width="960" alt="4" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2e2aab16-a298-4b78-8c49-68f220944fc9">
-<img width="960" alt="5" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/78381156-6b12-4526-bfb6-7edb60570046">
-<img width="960" alt="6" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/438e2e00-8781-4277-afb1-2ed381060bfe">
-<img width="960" alt="7" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/691d3a39-2901-4654-9ede-d319e32fb838">
-<img width="960" alt="8" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2439498b-8c49-470b-878a-90e01e60b3f3">
-<img width="960" alt="9" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2b3d1c5e-8583-4f2f-a9e5-87a4b9474890">
-<img width="960" alt="10" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/a3e39416-b799-4faf-a2d9-735db2f7bc01">
-<img width="960" alt="11" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2e58cbf9-83c5-4c49-9410-e4b21b830a64">
-<img width="960" alt="12" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/6b040df5-b0fb-4bf6-aa30-aeb251b276b3">
-<img width="960" alt="13" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/1b54f374-47d2-4357-bac8-1c545b2192f8">
-<img width="960" alt="14" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/16f27675-604c-4d94-ba24-d7bec281b4a5">
 
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
