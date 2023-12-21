@@ -43,7 +43,8 @@ Azure Static Website is a hosting service in Microsoft Azure designed for deploy
 
 **Azure Backup Service**
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
-![Screenshot (40)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Data%20Protection.png)
+
+![Screenshot 2023-12-21 134717](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/e7f4c865-0fee-4d06-95f7-20505f2801e7)
 
 **Azure ChatBot**
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
