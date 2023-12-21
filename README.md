@@ -54,16 +54,17 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 
 # Working Live Project Display
 **Home Page**
+![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c6cdf29c-9126-479b-b3a0-3ae47664b0ca)
+![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/467e3ed9-d121-408b-909f-3c38cb296b3b)
+![Screenshot 2023-12-21 135005](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5b93a6d1-f79f-433d-8241-4cb26e5ff734)
+![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/703b7169-943b-4f71-8133-bf6b08e8c54b)
+![Screenshot 2023-12-21 135126](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/563e41a4-f43e-4f91-b70c-2cd4f152b528)
+![Screenshot 2023-12-21 135225](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7328a548-8135-452f-bad8-75e19752e0c9)
+![Screenshot 2023-12-21 135308](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/6c158c4e-068a-4a29-aeb7-8b443f021a4d)
+![Screenshot 2023-12-21 135402](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/054c6ec6-1e3b-4bf5-987b-49948c918712)
+![Screenshot 2023-12-21 135457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/9f2a95d0-74e4-43fa-89b8-f6902c0c204c)
 
-![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2bad407d-7527-4223-8700-addfece10123)
-![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/20a60448-b405-45de-a91d-5c0201ff73c5)
-![Screenshot ![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/ad3604d6-123d-4005-a1a2-4e478cba563d)
-2023-12-21 135005](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f844bcdc-fd8a-402a-97d8-9b39ea2e33e3)
-![Screenshot 2023-12-21 135126](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/1a868558-88db-4b19-8622-ac91d00dd890)
-![Uploading Screenshot 2023-12-21 13522![Screenshot 2023-12-21 135308](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c3e0e530-2815-40ff-9754-7934abcbd7b9)
-![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c4719e25-d954-4783-aa4e-ba6310b526ef)
 
-![Screenshot 2023-12-21 135402](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/4ed27183-3c16-47e2-83a0-b930ae7a28da)
 
 <img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/724a69fa-6b63-4c0e-b4ce-b816d9bdeb8f">
 
