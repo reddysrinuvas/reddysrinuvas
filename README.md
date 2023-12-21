@@ -1,4 +1,4 @@
-# BLOSSOM-VALLEY-NURSERY
+![Screenshot 2023-12-21 135225](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/01eb03d7-0983-40fe-8586-2d82774122fc)# BLOSSOM-VALLEY-NURSERY
 A platform to know the magic in your own hands
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
@@ -57,6 +57,12 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 
 ![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2bad407d-7527-4223-8700-addfece10123)
 ![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/20a60448-b405-45de-a91d-5c0201ff73c5)
+![Screenshot ![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/ad3604d6-123d-4005-a1a2-4e478cba563d)
+2023-12-21 135005](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f844bcdc-fd8a-402a-97d8-9b39ea2e33e3)
+![Screenshot 2023-12-21 135126](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/1a868558-88db-4b19-8622-ac91d00dd890)
+![Uploading Screenshot 2023-12-21 13522![Screenshot 2023-12-21 135308](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c3e0e530-2815-40ff-9754-7934abcbd7b9)
+5.png…]()
+![Screenshot 2023-12-21 135402](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/4ed27183-3c16-47e2-83a0-b930ae7a28da)
 
 <img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/724a69fa-6b63-4c0e-b4ce-b816d9bdeb8f">
 
