@@ -23,7 +23,7 @@ Azure AI Service <br>
 
 
 <h2>Core Azure Services</h2>
-Azure Blob Storage:
+<b>Azure Blob Storage:</b>
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
 Azure Storage Account:
 . Azure Storage Account is a core component of Microsoft Azure's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With features like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications.
