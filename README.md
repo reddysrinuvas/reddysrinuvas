@@ -86,12 +86,23 @@ AZURE
 https://srinivas1235.z6.web.core.windows.net/nursery.html
 
 # DESKTOP VIEW
-![Screenshot (7)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/a8718bc7-7b33-410d-a922-feb52e938577)
-![Screenshot (6)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/87afb597-ca35-4999-8140-279a58f39397)
-![Screenshot (5)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7a18ec91-8fdf-44bd-9d95-302307cd241b)
-![Screenshot (4)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5f9114a9-c40e-4410-941c-eedb0240a5f5)
-![Screenshot (3)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/4c0d52b5-50f0-45c7-a341-7ce658ea3a03)
-![Screenshot (2)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/924a22b7-ee00-4d3e-8492-0a772617197f)
+![Screenshot 2023-12-21 135402](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/3c2c9b08-43d8-4e66-97ee-5ddb68e8c9e9)
+![Screenshot 2023-12-21 135308](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f813716a-9d18-4337-8958-1f804beab587)
+![Screenshot 2023-12-21 135225](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/04d0a1e0-108f-4be1-8813-982dea5216cd)
+![Screenshot 2023-12-21 135126](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5fbb30d3-c4aa-4fc1-a31b-826c5adb8c30)
+![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/6b8d5024-ab7e-4d6f-9b34-2b1317134bdb)
+![Screenshot 2023-12-21 135005](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5e32d17f-b1e8-4fbc-a2ca-20ffc3e56b1e)
+![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/6d2106a8-1ec2-422f-88d2-bbe534bf6750)
+![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/e3d4f8ff-3954-4e4b-b129-69a5dedcdcfe)
+![Screenshot 2023-12-21 134717](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/be446255-7bf5-44c9-b659-0727d3d8fced)
+![Screenshot 2023-12-21 134508](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/d7d47496-d907-4366-8719-28ec9777db5e)
+![Screenshot 2023-12-21 134148](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/3833416d-d3a4-4317-83fe-fbe3edd8459c)
+![Screenshot 2023-12-21 134030](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/a93953a6-75a8-423a-a251-8afe02e20e4c)
+![Screenshot 2023-12-21 133756](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7a85d115-9928-4784-a4be-e9543f98993d)
+![Screenshot 2023-12-21 132854](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/a476685e-b335-4b84-bfcb-c75bc967894b)
+![Screenshot 2023-12-21 132526](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/cd0ba517-4b17-4d89-baf9-e8dc62df8069)
+![Screenshot 2023-12-21 132457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c8f5365e-4067-4f57-bf44-632373eb4a8e)
+![Screenshot 2023-12-21 135457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2cd5389e-7f44-449c-81f1-e0cd3a732385)
 
 # MOBILE VIEW
 ![WhatsApp Image 2023-12-14 at 11 55 57 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f4686d00-d5d3-4b42-8712-fc0eba8d50e6)
