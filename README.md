@@ -66,7 +66,6 @@ The Multilingual Content Hub redefines language connectivity by using seamlessly
 
 
 
-![WhatsApp Image 2023-12-14 at 11 55 55 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f5b56e06-59ac-4579-b756-b26780d2a4f0)
 # project description
 Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies.
 Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the 
