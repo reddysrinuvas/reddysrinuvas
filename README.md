@@ -1,4 +1,4 @@
-![Screenshot 2023-12-21 161800](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/478a071b-f968-49e4-bd1c-b812b2ebb146)# INDIAN-TOURISM-WEBSITE
+# INDIAN-TOURISM-WEBSITE
 A platform to know the magic in your own hands
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
@@ -27,7 +27,7 @@ Blossom Valley Nursery's web project is a delightful fusion of horticulture and 
   **Azure ChatBot**:<br>
   Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
 # ScreenShots
-![image](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Data%20Protection.png)
+
 ![Screenshot 2023-12-21 134717](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/9784fbb1-8b3e-40a0-90ec-8e102549ce7c)
 
 
@@ -38,7 +38,7 @@ Azure Static Website is a hosting service in Microsoft Azure designed for deploy
 ![Screenshot 2023-12-21 133756](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/1da6a79e-0eff-4ac0-97bd-64cdbe0bad06)
 
 **Azure blob storage**
-![Screenshot (39)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Container.png)
+
 ![Screenshot 2023-12-21 161800](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/32fbe599-b5d9-497d-a2f5-5fb2cf6bf162)
 
 **Azure Backup Service**
@@ -47,7 +47,7 @@ Azure Backup Service in Microsoft Azure ensures data resilience with automated, 
 
 **Azure ChatBot**
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
-![Screenshot (41)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/chat%20working.png)
+
 ![Screenshot 2023-12-21 134030](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7fdedb94-823e-494b-a039-ae573e6673e3)
 
 
