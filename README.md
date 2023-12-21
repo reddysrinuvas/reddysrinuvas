@@ -56,6 +56,7 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 **Home Page**
 
 ![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2bad407d-7527-4223-8700-addfece10123)
+![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/20a60448-b405-45de-a91d-5c0201ff73c5)
 
 <img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/724a69fa-6b63-4c0e-b4ce-b816d9bdeb8f">
 
