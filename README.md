@@ -1,112 +1,77 @@
-<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/"> # Blossom Valley Nursery</b></a>
-<br>
-<h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
-<b>Industry :</b> Earth <br>
-<h2>Azure Services Used</h2>
-<h3>
-Core Azure Services : <br>
-1. Storage Account <br>
-2. Blob Storage <br> <br>
-Azure AI Service <br>
-1. Azure Language Service <br>
-2. Azure Bot <br>
-3. Azure Backup Services <br>
-</h3>
-<h2>Problem Statement</h2>
-<p align="justify">The absence of mobile responsiveness further impedes accessibility for a significant user base. A critical need exists for a comprehensive website overhaul to modernize design, enhance product showcasing, improve user interaction, and ensure mobile compatibility. This project aims to address these challenges and elevate the online presence of Blossom Valley Nursery.</p>
-<h2>Project Description</h2>
-<p align="justify">Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies. Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the nursery's flora. The user interface is intuitively crafted, offering a seamless navigation experience for plant enthusiasts and prospective customers. To ensure accessibility and scalability, the static web application is deployed on the Azure portal, providing a robust and reliable hosting solution. This integration not only enhances the website's performance but also aligns with contemporary industry standards, making Blossom Valley Nursery's online presence as vibrant and thriving as their botanical offerings.</p><br>
+# INDIAN-TOURISM-WEBSITE
+A platform to know the magic in your own hands
+# Project Details
+  1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
+  1. Demo Video URL : [https://youtu.be/tJfQv_Ro0-k]
+  1. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
+  1. Industry : Tourism and Travel
+# Azure Services Used
+  1. Azure Blob storage
+  1. Storage Account
+  1. Azure Backup service
+# Azure AI Services Used:
+  1.Azure Language Resource
+  2.Azure bot
+# Problem Statement
+India, with its rich cultural heritage, diverse landscapes, and historical significance, attracts millions of tourists from around the world. To enhance the travel experience and promote tourism, there is a need for a comprehensive and user-friendly Indian tourism website.
+# Project Decription
+The Indian Tourism Website Documentation serves as a comprehensive guide for the project, offering insights into its objectives, structure, and technological underpinnings. Employing HTML5, CSS3, and Bootstrap, the website is dedicated to showcasing the diverse tourism destinations in India. The documentation outlines the project's organizational framework, including HTML files, CSS stylesheets, and an image repository.
 
-<h2>Core Azure Services</h2>
-<b>Azure Blob Storage:</b>
-Azure Blob Storage is a cloud-based object storage service in  Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secur e storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web a pplications.
-<b>Azure Storage Account:</b> 
- Azure Storage Account is a core component of Microsoft Azure 's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With featu res like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications.<br> 
-<b>Azure Backup Service:</b> 
-Azure Backup is a cloud-based service in Microsoft Azure that  allows organizations to protect and restore their data and workloads. It offers centralized management for backing up on-premises and cloud resources, su pporting diverse workloads such as virtual machines, databases, and files. With features like long-term retention, encryption, and monitoring, Azure Backup ensu res data resilience and compliance.
-<h2>Azure AI Service</h2> 
-<b>Azure ChatBot:</b> 
-Azure AI Chatbot is a service in Microsoft Azure that enables  the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive  and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive  Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions. 
-<br> 
-<h2>Screenshots</h2> 
-<h3>Azure App Service</h3> 
-<b>Description :</b><p align="justify">Azure App Service prov ides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an op timal user experience.</p>
-<img src="https://github.com/AnkeetaGup!(https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/fad8f014-0787-40b8-8447-942d6e18722d)
-ta/flask-ai-translatio n/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
-<h3>Azure Databse for MySQL</h3> 
-<b>Description :</b><p align="justify"> The project leverages  Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick  retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translatio n/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
-<h3>Azure AI Translator Service</h3> 
-<b>Description :</b><p align="justify">Azure AI Translator Se rvice is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accur ate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translatio n/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
-<h3>Working Live Project Display</h3> 
-<b>Description :</b><p align="justify">Here I am attaching th e final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
+Key features of the website, such as a welcoming homepage, detailed destination pages, and a responsive navigation bar, are highlighted. The design strategy prioritizes clarity and intuitiveness, utilizing Bootstrap for grid systems to ensure seamless adaptability across different devices. Content is a focal point, providing detailed information on historical significance, cultural highlights, and tourist attractions for each showcased destination. Rigorous testing procedures guarantee a consistent and compatible user experience across various browsers and devices.
+.
+# Core Azure Services
+   **Azure Blob Storage**: <br>
+   Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications. <br>
+   **Azure Storage Account**: <br>.
+  Azure Storage Account is a core component of Microsoft Azure's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With features like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications. <br>
+   **Azure Backup Service** :<br>
+   Azure Backup is a cloud-based service in Microsoft Azure that allows organizations to protect and restore their data and workloads. It offers centralized management for backing up on-premises and cloud resources, supporting diverse workloads such as virtual machines, databases, and files. With features like long-term retention, encryption, and monitoring, Azure Backup ensures data resilience and compliance. <br>
+# Azure AI Service
+  **Azure ChatBot**:<br>
+  Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
+# ScreenShots
+![image](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Data%20Protection.png)
 
-<h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+**Azure Static Website**
+Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+![image](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Azure%20Static%20Website%20.png)
 
-<h2>Final Project Statement</h2>
-<p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
-<p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
-</p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+**Azure blob storage**
+![Screenshot (39)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Container.png)
+
+**Azure Backup Service**
+Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+![Screenshot (40)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Data%20Protection.png)
+
+**Azure ChatBot**
+The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
+![Screenshot (41)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/chat%20working.png)
+
+# Working Live Project Display
+**Home Page**
+<img width="960" alt="1" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/6087cd58-50d6-4758-9d26-a61dd5944a38">
+
+<img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/724a69fa-6b63-4c0e-b4ce-b816d9bdeb8f">
+
+<img width="960" alt="3" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/fa8ad91c-d2f1-4f15-81a3-747b8e8c5aba">
+<img width="960" alt="4" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2e2aab16-a298-4b78-8c49-68f220944fc9">
+<img width="960" alt="5" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/78381156-6b12-4526-bfb6-7edb60570046">
+<img width="960" alt="6" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/438e2e00-8781-4277-afb1-2ed381060bfe">
+<img width="960" alt="7" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/691d3a39-2901-4654-9ede-d319e32fb838">
+<img width="960" alt="8" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2439498b-8c49-470b-878a-90e01e60b3f3">
+<img width="960" alt="9" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2b3d1c5e-8583-4f2f-a9e5-87a4b9474890">
+<img width="960" alt="10" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/a3e39416-b799-4faf-a2d9-735db2f7bc01">
+<img width="960" alt="11" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/2e58cbf9-83c5-4c49-9410-e4b21b830a64">
+<img width="960" alt="12" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/6b040df5-b0fb-4bf6-aa30-aeb251b276b3">
+<img width="960" alt="13" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/1b54f374-47d2-4357-bac8-1c545b2192f8">
+<img width="960" alt="14" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/16f27675-604c-4d94-ba24-d7bec281b4a5">
+
+**Description**
+Here I am attaching the final working website's screenshot for the reference.
+# Resource Visualizer
+<img width="960" alt="Azure Resource Vizulizer" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/16597210-c57e-4fd4-b68c-7ec5fd5102fa">
 
 
+# Final Project Statement
+The Indian Tourism Website Documentation provides a comprehensive guide to a project dedicated to showcasing India's diverse tourism destinations. Utilizing HTML5, CSS3, and Bootstrap, the website prioritizes clarity and intuitiveness with a welcoming homepage, detailed destination pages, and a responsive navigation bar. The design strategy ensures seamless adaptability across devices, emphasizing content richness on historical significance, cultural highlights, and tourist attractions. Rigorous testing guarantees a consistent and compatible user experience across browsers, culminating in a user-friendly platform promoting India's tourism offerings.
 
-
-
-
-
-
-
-# project description
-Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies.
-Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the 
-nursery's flora. The user interface is intuitively crafted, offering a seamless navigation experience for plant
-enthusiasts and prospective customers. To ensure accessibility and scalability, the static web application is deployed
-on the Azure portal, providing a robust and reliable hosting solution. This integration not only enhances the website's 
-performance but also aligns with contemporary industry standards, making Blossom Valley Nursery's 
-online presence as vibrant and thriving as their botanical offerings.
-
-# Using tools
-HTML
-CSS
-Java Script
-AZURE 
-
-# VISIT HERE
-https://srinivas1235.z6.web.core.windows.net/nursery.html
-
-# DESKTOP VIEW
-![Screenshot 2023-12-21 135402](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/3c2c9b08-43d8-4e66-97ee-5ddb68e8c9e9)
-![Screenshot 2023-12-21 135308](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f813716a-9d18-4337-8958-1f804beab587)
-![Screenshot 2023-12-21 135225](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/04d0a1e0-108f-4be1-8813-982dea5216cd)
-![Screenshot 2023-12-21 135126](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5fbb30d3-c4aa-4fc1-a31b-826c5adb8c30)
-![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/6b8d5024-ab7e-4d6f-9b34-2b1317134bdb)
-![Screenshot 2023-12-21 135005](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5e32d17f-b1e8-4fbc-a2ca-20ffc3e56b1e)
-![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/6d2106a8-1ec2-422f-88d2-bbe534bf6750)
-![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/e3d4f8ff-3954-4e4b-b129-69a5dedcdcfe)
-![Screenshot 2023-12-21 134717](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/be446255-7bf5-44c9-b659-0727d3d8fced)
-![Screenshot 2023-12-21 134508](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/d7d47496-d907-4366-8719-28ec9777db5e)
-![Screenshot 2023-12-21 134148](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/3833416d-d3a4-4317-83fe-fbe3edd8459c)
-![Screenshot 2023-12-21 134030](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/a93953a6-75a8-423a-a251-8afe02e20e4c)
-![Screenshot 2023-12-21 133756](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7a85d115-9928-4784-a4be-e9543f98993d)
-![Screenshot 2023-12-21 132854](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/a476685e-b335-4b84-bfcb-c75bc967894b)
-![Screenshot 2023-12-21 132526](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/cd0ba517-4b17-4d89-baf9-e8dc62df8069)
-![Screenshot 2023-12-21 132457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c8f5365e-4067-4f57-bf44-632373eb4a8e)
-![Screenshot 2023-12-21 135457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2cd5389e-7f44-449c-81f1-e0cd3a732385)
-
-# MOBILE VIEW
-![WhatsApp Image 2023-12-14 at 11 55 57 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f4686d00-d5d3-4b42-8712-fc0eba8d50e6)
-![WhatsApp Image 2023-12-14 at 11 55 56 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c52ae8db-3c3b-4a75-bf6c-bd4590503c5b)
-
-![WhatsApp Image 2023-12-14 at 11 55 56 AM (2)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f3a9e051-6f36-417b-ad09-dbe9547a3e12)
-![WhatsApp Image 2023-12-14 at 11 55 55 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/224f4109-f903-418b-8415-833b9847d4b3)
-![WhatsApp Image 2023-12-14 at 11 55 55 AM (1)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2dfbcf8d-0810-4c08-a2ee-8b40ca9b87c9)
