@@ -1,4 +1,4 @@
-# INDIAN-TOURISM-WEBSITE
+# BLOSSOM-VALLEY-NURSERY
 A platform to know the magic in your own hands
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
@@ -19,7 +19,7 @@ Blossom Valley Nursery's web project is a delightful fusion of horticulture and 
 # Core Azure Services
    **Azure Blob Storage**: <br>
    Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications. <br>
-   **Azure Storage Account**: <br>.
+   **Azure Storage Account**: <br>
   Azure Storage Account is a core component of Microsoft Azure's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With features like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications. <br>
    **Azure Backup Service** :<br>
    Azure Backup is a cloud-based service in Microsoft Azure that allows organizations to protect and restore their data and workloads. It offers centralized management for backing up on-premises and cloud resources, supporting diverse workloads such as virtual machines, databases, and files. With features like long-term retention, encryption, and monitoring, Azure Backup ensures data resilience and compliance. <br>
@@ -54,7 +54,8 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 
 # Working Live Project Display
 **Home Page**
-<img width="960" alt="1" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/6087cd58-50d6-4758-9d26-a61dd5944a38">
+
+![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2bad407d-7527-4223-8700-addfece10123)
 
 <img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/724a69fa-6b63-4c0e-b4ce-b816d9bdeb8f">
 
