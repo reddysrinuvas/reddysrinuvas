@@ -26,13 +26,12 @@ Azure AI Service <br>
 <b>Azure Blob Storage:</b>
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
 <b>Azure Storage Account:</b>
-. Azure Storage Account is a core component of Microsoft Azure's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With features like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications.<br>
+ Azure Storage Account is a core component of Microsoft Azure's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With features like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications.<br>
 <b>Azure Backup Service:</b>
 Azure Backup is a cloud-based service in Microsoft Azure that allows organizations to protect and restore their data and workloads. It offers centralized management for backing up on-premises and cloud resources, supporting diverse workloads such as virtual machines, databases, and files. With features like long-term retention, encryption, and monitoring, Azure Backup ensures data resilience and compliance.
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
-<h2>Other Azure Technologies / Services</h2>
-<p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
+<b>Azure ChatBot:</b>
+Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
 
 <b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
 <b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
