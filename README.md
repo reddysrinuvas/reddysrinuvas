@@ -107,7 +107,7 @@ https://srinivas1235.z6.web.core.windows.net/nursery.html
 # MOBILE VIEW
 ![WhatsApp Image 2023-12-14 at 11 55 57 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f4686d00-d5d3-4b42-8712-fc0eba8d50e6)
 ![WhatsApp Image 2023-12-14 at 11 55 56 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c52ae8db-3c3b-4a75-bf6c-bd4590503c5b)
-![WhatsApp Image 2023-12-14 at 11 55 56 AM (1)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/beb97a9b-c3b5-4e54-87f9-9de4c5629d5f)
+
 ![WhatsApp Image 2023-12-14 at 11 55 56 AM (2)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/f3a9e051-6f36-417b-ad09-dbe9547a3e12)
 ![WhatsApp Image 2023-12-14 at 11 55 55 AM](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/224f4109-f903-418b-8415-833b9847d4b3)
 ![WhatsApp Image 2023-12-14 at 11 55 55 AM (1)](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/2dfbcf8d-0810-4c08-a2ee-8b40ca9b87c9)
