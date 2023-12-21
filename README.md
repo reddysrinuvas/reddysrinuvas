@@ -71,9 +71,10 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Resource Visualizer
-<img width="960" alt="Azure Resource Vizulizer" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/16597210-c57e-4fd4-b68c-7ec5fd5102fa">
+
+![Screenshot 2023-12-21 165344](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/0b585c15-d237-445e-a95d-4dfe3492c293)
 
 
 # Final Project Statement
-The Indian Tourism Website Documentation provides a comprehensive guide to a project dedicated to showcasing India's diverse tourism destinations. Utilizing HTML5, CSS3, and Bootstrap, the website prioritizes clarity and intuitiveness with a welcoming homepage, detailed destination pages, and a responsive navigation bar. The design strategy ensures seamless adaptability across devices, emphasizing content richness on historical significance, cultural highlights, and tourist attractions. Rigorous testing guarantees a consistent and compatible user experience across browsers, culminating in a user-friendly platform promoting India's tourism offerings.
+Sure! For the project description of a static website for Blossom Valley Nursery, we can create a beautiful and informative website that showcases the various plants, flowers, and gardening services offered by the nursery. The website can include sections like About Us, Products, Services, Gallery, and Contact, providing visitors with all the necessary information they need. We can design it with a nature-inspired theme and ensure that it's user-friendly and visually appealing. 🌸🌿
 
