@@ -33,6 +33,7 @@ Blossom Valley Nursery's web project is a delightful fusion of horticulture and 
 **Azure Static Website**
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 ![image](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Azure%20Static%20Website%20.png)
+![Screenshot 2023-12-21 134508](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/3d44adcf-9a70-4e53-a1ee-935f43c4bcbf)
 
 **Azure blob storage**
 ![Screenshot (39)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Container.png)
