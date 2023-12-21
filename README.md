@@ -19,16 +19,9 @@ Azure AI Service <br>
 <p align="justify">The absence of mobile responsiveness further impedes accessibility for a significant user base. A critical need exists for a comprehensive website overhaul to modernize design, enhance product showcasing, improve user interaction, and ensure mobile compatibility. This project aims to address these challenges and elevate the online presence of Blossom Valley Nursery.</p>
 <h2>Project Description</h2>
 <p align="justify">Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies. Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the nursery's flora. The user interface is intuitively crafted, offering a seamless navigation experience for plant enthusiasts and prospective customers. To ensure accessibility and scalability, the static web application is deployed on the Azure portal, providing a robust and reliable hosting solution. This integration not only enhances the website's performance but also aligns with contemporary industry standards, making Blossom Valley Nursery's online presence as vibrant and thriving as their botanical offerings.</p><br>
-<b>Key Features :</b>
-<ul>
-    <li>Seamless Language Translation</li>
-    <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
-    <li>Azure App Service Hosting</li>
-    <li>Azure SQL Database for Efficient Data Management</li>
-</ul>
-<b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+
+
+
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
