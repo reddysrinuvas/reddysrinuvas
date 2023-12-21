@@ -14,6 +14,7 @@ Core Azure Services : <br>
 Azure AI Service <br>
 1. Azure Language Service <br>
 2. Azure Bot <br>
+3. Azure Backup Services <br>
 </h3>
 <h2>Problem Statement</h2>
 <p align="justify">The absence of mobile responsiveness further impedes accessibility for a significant user base. A critical need exists for a comprehensive website overhaul to modernize design, enhance product showcasing, improve user interaction, and ensure mobile compatibility. This project aims to address these challenges and elevate the online presence of Blossom Valley Nursery.</p>
