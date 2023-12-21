@@ -1,4 +1,4 @@
-# INDIAN-TOURISM-WEBSITE
+![Screenshot 2023-12-21 161800](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/478a071b-f968-49e4-bd1c-b812b2ebb146)# INDIAN-TOURISM-WEBSITE
 A platform to know the magic in your own hands
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
@@ -38,6 +38,7 @@ Azure Static Website is a hosting service in Microsoft Azure designed for deploy
 
 **Azure blob storage**
 ![Screenshot (39)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Container.png)
+![Screenshot 2023-12-21 161800](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/32fbe599-b5d9-497d-a2f5-5fb2cf6bf162)
 
 **Azure Backup Service**
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
