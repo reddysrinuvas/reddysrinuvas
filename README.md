@@ -23,27 +23,28 @@ Azure AI Service <br>
 
 <h2>Core Azure Services</h2>
 <b>Azure Blob Storage:</b>
-Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
-<b>Azure Storage Account:</b>
- Azure Storage Account is a core component of Microsoft Azure's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With features like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications.<br>
-<b>Azure Backup Service:</b>
-Azure Backup is a cloud-based service in Microsoft Azure that allows organizations to protect and restore their data and workloads. It offers centralized management for backing up on-premises and cloud resources, supporting diverse workloads such as virtual machines, databases, and files. With features like long-term retention, encryption, and monitoring, Azure Backup ensures data resilience and compliance.
-<h2>Azure AI Service</h2>
-<b>Azure ChatBot:</b>
-Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
-<br>
-<h2>Screenshots</h2>
-<h3>Azure App Service</h3>
-<b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
-<h3>Azure Databse for MySQL</h3>
-<b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
-<h3>Azure AI Translator Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
-<h3>Working Live Project Display</h3>
-<b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
+Azure Blob Storage is a cloud-based object storage service in  Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secur e storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web a pplications.
+<b>Azure Storage Account:</b> 
+ Azure Storage Account is a core component of Microsoft Azure 's cloud storage services. It provides a secure and scalable platform for storing various data types, including blobs, files, queues, and tables. With featu res like replication options, access control, and scalability, Azure Storage Accounts are essential for building resilient and flexible cloud applications.<br> 
+<b>Azure Backup Service:</b> 
+Azure Backup is a cloud-based service in Microsoft Azure that  allows organizations to protect and restore their data and workloads. It offers centralized management for backing up on-premises and cloud resources, su pporting diverse workloads such as virtual machines, databases, and files. With features like long-term retention, encryption, and monitoring, Azure Backup ensu res data resilience and compliance.
+<h2>Azure AI Service</h2> 
+<b>Azure ChatBot:</b> 
+Azure AI Chatbot is a service in Microsoft Azure that enables  the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive  and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive  Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions. 
+<br> 
+<h2>Screenshots</h2> 
+<h3>Azure App Service</h3> 
+<b>Description :</b><p align="justify">Azure App Service prov ides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an op timal user experience.</p>
+<img src="https://github.com/AnkeetaGup![Screenshot 2023-12-21 132457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/fad8f014-0787-40b8-8447-942d6e18722d)
+ta/flask-ai-translatio n/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
+<h3>Azure Databse for MySQL</h3> 
+<b>Description :</b><p align="justify"> The project leverages  Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick  retrieval of information.</p>
+<img src="https://github.com/AnkeetaGupta/flask-ai-translatio n/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
+<h3>Azure AI Translator Service</h3> 
+<b>Description :</b><p align="justify">Azure AI Translator Se rvice is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accur ate and contextually relevant translations.</p>
+<img src="https://github.com/AnkeetaGupta/flask-ai-translatio n/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+<h3>Working Live Project Display</h3> 
+<b>Description :</b><p align="justify">Here I am attaching th e final working website's screenshot for the reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
