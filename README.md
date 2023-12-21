@@ -35,7 +35,7 @@ Azure AI Chatbot is a service in Microsoft Azure that enables  the development o
 <h2>Screenshots</h2> 
 <h3>Azure App Service</h3> 
 <b>Description :</b><p align="justify">Azure App Service prov ides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an op timal user experience.</p>
-<img src="https://github.com/AnkeetaGup![Screenshot 2023-12-21 132457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/fad8f014-0787-40b8-8447-942d6e18722d)
+<img src="https://github.com/AnkeetaGup!(https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/fad8f014-0787-40b8-8447-942d6e18722d)
 ta/flask-ai-translatio n/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3> 
 <b>Description :</b><p align="justify"> The project leverages  Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick  retrieval of information.</p>
