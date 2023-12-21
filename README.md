@@ -28,6 +28,7 @@ Blossom Valley Nursery's web project is a delightful fusion of horticulture and 
   Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
 # ScreenShots
 ![image](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/Data%20Protection.png)
+![Uploading Screenshot 2023-12-21 134717.png…]()
 
 **Azure Static Website**
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
