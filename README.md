@@ -47,6 +47,7 @@ Azure Backup Service in Microsoft Azure ensures data resilience with automated, 
 **Azure ChatBot**
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
 ![Screenshot (41)](https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/blob/main/chat%20working.png)
+![Screenshot 2023-12-21 135457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/95485695-92db-4e28-bcc4-d8e1236dfbe4)
 
 # Working Live Project Display
 **Home Page**
