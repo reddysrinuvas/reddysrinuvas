@@ -2,23 +2,20 @@
 A platform to know the magic in your own hands
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
-  1. Demo Video URL : [https://youtu.be/tJfQv_Ro0-k]
-  1. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
-  1. Industry : Tourism and Travel
+  2. Demo Video URL : [https://youtu.be/tJfQv_Ro0-k]
+  3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
+  4. Industry : Tourism and Travel
 # Azure Services Used
   1. Azure Blob storage
-  1. Storage Account
-  1. Azure Backup service
+  2. Storage Account
+  3. Azure Backup service
 # Azure AI Services Used:
-  1.Azure Language Resource
+  1.Azure Language Resource<br>
   2.Azure bot
 # Problem Statement
-India, with its rich cultural heritage, diverse landscapes, and historical significance, attracts millions of tourists from around the world. To enhance the travel experience and promote tourism, there is a need for a comprehensive and user-friendly Indian tourism website.
+The absence of mobile responsiveness further impedes accessibility for a significant user base. A critical need exists for a comprehensive website overhaul to modernize design, enhance product showcasing, improve user interaction, and ensure mobile compatibility. This project aims to address these challenges and elevate the online presence of Blossom Valley Nursery.
 # Project Decription
-The Indian Tourism Website Documentation serves as a comprehensive guide for the project, offering insights into its objectives, structure, and technological underpinnings. Employing HTML5, CSS3, and Bootstrap, the website is dedicated to showcasing the diverse tourism destinations in India. The documentation outlines the project's organizational framework, including HTML files, CSS stylesheets, and an image repository.
-
-Key features of the website, such as a welcoming homepage, detailed destination pages, and a responsive navigation bar, are highlighted. The design strategy prioritizes clarity and intuitiveness, utilizing Bootstrap for grid systems to ensure seamless adaptability across different devices. Content is a focal point, providing detailed information on historical significance, cultural highlights, and tourist attractions for each showcased destination. Rigorous testing procedures guarantee a consistent and compatible user experience across various browsers and devices.
-.
+Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies. Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the nursery's flora. The user interface is intuitively crafted, offering a seamless navigation experience for plant enthusiasts and prospective customers. To ensure accessibility and scalability, the static web application is deployed on the Azure portal, providing a robust and reliable hosting solution. This integration not only enhances the website's performance but also aligns with contemporary industry standards, making Blossom Valley Nursery's online presence as vibrant and thriving as their botanical offerings.
 # Core Azure Services
    **Azure Blob Storage**: <br>
    Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications. <br>
