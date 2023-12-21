@@ -3,7 +3,7 @@ A platform to show your love towards the nature
 # Project Details
   1. Project Demo URL : [https://srinu674.z9.web.core.windows.net/]
   2. Demo Video URL :  [https://youtu.be/O_bIDRpg5po]
-  3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
+  3. Github Repository URL : [https://github.com/reddysrinuvas/reddysrinuvas]
   4. Industry : Earth
 # Azure Services Used
   1. Azure Blob storage
