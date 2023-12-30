@@ -6,8 +6,8 @@ A platform to show your love towards the nature
   3. Github Repository URL : [https://github.com/reddysrinuvas/reddysrinuvas]
   4. Industry : Earth
 # My Team:
-  1.P.Srinuvas Rao : Developer of the project <br>
-  2.Sk Sohail : Deployment <br>
+  1.Srinuvasarao Pandi: Developer of the project <br>
+  2.Shaik Sohail Ahammed : Deployment <br>
   3.Tirupathi : README file upload <br>
   4.Vishal : Content Description <br>
 # Azure Services Used
