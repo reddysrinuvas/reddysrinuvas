@@ -5,6 +5,11 @@ A platform to show your love towards the nature
   2. Demo Video URL :  [https://youtu.be/O_bIDRpg5po]
   3. Github Repository URL : [https://github.com/reddysrinuvas/reddysrinuvas]
   4. Industry : Earth
+# My Team:
+  1.P.Srinuvas Rao : Developer of the project
+  2.Sk Sohail : Deployment
+  3.Tirupathi : README file upload
+  4.Vishal : Content Description
 # Azure Services Used
   1. Azure Blob storage
   2. Storage Account
