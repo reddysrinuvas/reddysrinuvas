@@ -8,8 +8,8 @@ A platform to show your love towards the nature
 # My Team:
   1.Srinivasarao Pandi: Developer of the project <br>
   2.Shaik Sohail Ahammed : Deployment <br>
-  3.Tirupathi : README file upload <br>
-  4.Vishal : Content Description <br>
+  3.Tirupathi Kethiri : README file upload <br>
+  4.Vishal Guddeti : Content Description <br>
 # Azure Services Used
   1. Azure Blob storage
   2. Storage Account
